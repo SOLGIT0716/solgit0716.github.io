@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: 솔깃한 블로그입니다!
+    title: Hello world!
     text: It's Nice To Meet You
     button: Tell Me More
     buttonlink: "#services"
